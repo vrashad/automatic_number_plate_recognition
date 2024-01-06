@@ -17,5 +17,5 @@ Burada dövrü for operatoru vasitəsilə bir yox, istədiyiniz sayda şəkillə
 
 
 İlk olaraq şəkil faylını Image, Grayscale, Blur rejimində oxuyuruq
-[IMG]https://i.postimg.cc/d00Mzh42/1.png[/IMG]
+<img src="https://i.postimg.cc/d00Mzh42/1.png">
 
