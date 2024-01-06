@@ -5,7 +5,7 @@ Bu proyektin məqsədi, Computer Vision və OCR vasitəsilə, avtomatik olaraq, 
 
 ## İstifadə qaydası:
 
-İlk olaraq lazım olan paketləri yükləyirik
+Lazım olan paketləri yükləyirik
 
 ```bash
 pip install -r requirements.txt
