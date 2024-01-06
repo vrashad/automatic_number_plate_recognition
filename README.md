@@ -16,5 +16,6 @@ Məndə faylın adı **car1.jpg** kimi təyin edilib. Siz faylın adını, öz f
 Burada dövrü for operatoru vasitəsilə bir yox, istədiyiniz sayda şəkilləri bu qayda ilə emal edə bilərsiniz
 
 
-
+İlk olaraq şəkil faylını Image, Grayscale, Blur rejimində oxuyuruq
+https://i.postimg.cc/d00Mzh42/1.png
 
