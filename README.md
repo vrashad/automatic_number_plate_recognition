@@ -1,2 +1,2 @@
-# automatic_number_plate_recognition
-Computer Vision və OCR vasitəsilə, şəkildəki avtomobil nömrəsinin oxunulması
+# Avtomatik olaraq şəkildəki avtomobil nömrə nişanının oxunması
+[OpenCV](https://opencv.org/) və [EasyOCR](https://github.com/JaidedAI/EasyOCR) vasitəsilə, şəkildəki avtomobil nömrə nişanının oxunması
